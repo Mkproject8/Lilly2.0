@@ -5,21 +5,24 @@ I'm Powerful Auto-Filter Bot You Can Use Me As A Auto-filter in Your Group
 Its Easy To Use Me; Just Add Me To Your Group As Admin, 
 Thats All, i will Provide Movies There...🤓🤪
 
+And Our Another Version Bot With Lot Of Features.
+➡️ @rb_luna_bot
+
 
 ⚠️More Help Check Help Button Below
 
-😎 Powered by @MOVIES_ZILAA
+😎 Powered by @Hotstar_Movies_Com
 
-©️ Maintained By @GuruBhai11"""
+©️ Maintained By @balaSmurugan"""
     HELP_TXT = """
     🙋🏻‍♂️   Hellooo  {} 🤓
 
-○  Tutorial video is here @sources_cods
 
-○  it's Note Complicated...🤓
 
-○  Search using inline mode
-This methord works on any chat, Just type @Filters_Ro_Bot and then leave a space and search any movie you want...
+
+
+
+
 
 ○ Available Commands
      
@@ -34,19 +37,19 @@ This methord works on any chat, Just type @Filters_Ro_Bot and then leave a space
 
 ○Dont Spam Me...🤒
 
-😎 Powered by @MOVIES_ZILAA
+😎 Powered by @Hotstar_Movies_Com
 
-©️ Maintained By @GuruBhai11"""
+©️ Maintained By @balaSmurugan"""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/Am_RoBots>ᴀᴍ_ᴛᴇᴄʜ</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/balaSmurugan>ʙᴀʟᴀᴍᴜʀᴜɢᴀɴ</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Eva Maria is a open source project. 
-- Source - https://github.com/8769ANURAG/EvaMaria  
+- Xavier is not a open source project. 
+
 
 <b>DEVS:</b>
 - <a href=https://t.me/Am_RoBots>ᴀᴍ_ᴛᴇᴄʜ</a>"""
